@@ -7,3 +7,8 @@ Server [1]: points have decreased
 Server [2]: points have decreased
 Server [3]: points have decreased
 Time: Thu Mar 31 2016 00:46:40 GMT-0400 (EDT)
+Server [1]: points have increased
+Server [2]: points have increased
+Server [3]: points have increased
+Time: Thu Mar 31 2016 08:31:37 GMT-0400 (EDT)
+Time: Thu Mar 31 2016 08:46:25 GMT-0400 (EDT)

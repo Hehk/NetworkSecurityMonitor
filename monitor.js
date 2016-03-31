@@ -10,4 +10,4 @@ function startMonitor() {
   });
 }
 
-setInterval(startMonitor, 1000 * 5);
+setInterval(startMonitor, 1000 * 60);
