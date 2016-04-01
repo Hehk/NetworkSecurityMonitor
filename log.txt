@@ -12,3 +12,33 @@ Server [2]: points have increased
 Server [3]: points have increased
 Time: Thu Mar 31 2016 08:31:37 GMT-0400 (EDT)
 Time: Thu Mar 31 2016 08:46:25 GMT-0400 (EDT)
+Server [1]: points have increased
+Server [3]: points have decreased [unexpected]
+Time: Thu Mar 31 2016 21:38:40 GMT-0400 (EDT)
+Server [1]: points have increased
+Server [2]: points have increased
+Server [3]: points have decreased [unexpected]
+Time: Thu Mar 31 2016 21:47:40 GMT-0400 (EDT)
+Server [1]: points have increased
+Server [3]: points have decreased [unexpected]
+Time: Thu Mar 31 2016 22:02:24 GMT-0400 (EDT)
+Server [1]: points have increased
+Server [2]: points have increased
+Server [3]: points have decreased [unexpected]
+Time: Thu Mar 31 2016 22:16:25 GMT-0400 (EDT)
+Server [1]: points have increased
+Server [2]: points have increased
+Server [3]: points have decreased [unexpected]
+Time: Thu Mar 31 2016 22:31:25 GMT-0400 (EDT)
+Time: Thu Mar 31 2016 22:44:25 GMT-0400 (EDT)
+Server [1]: points have increased
+Server [2]: 
+Server [3]: points have decreased [unexpected]
+Time: Thu Mar 31 2016 22:47:25 GMT-0400 (EDT)
+Server [1]: 
+Time: Thu Mar 31 2016 22:50:25 GMT-0400 (EDT)
+Time: Thu Mar 31 2016 22:59:27 GMT-0400 (EDT)
+Server [1]: points have increased
+Server [3]: points have decreased [unexpected]
+Time: Thu Mar 31 2016 23:02:27 GMT-0400 (EDT)
+Time: Thu Mar 31 2016 23:05:27 GMT-0400 (EDT)
